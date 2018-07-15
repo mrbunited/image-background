@@ -1,0 +1,8 @@
+body {
+    max-width:1000px;
+    margin: auto;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
